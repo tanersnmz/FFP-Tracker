@@ -1,4 +1,4 @@
-# <p align="center">Financial Fair Play Tracker for TFF - Team 19</p>
+# <p align="center">Financial Fair Play Tracker for TFF</p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/72891015/207389557-750f16f7-fbdb-4610-bb2e-4da0ec5f6810.png" /></p>
 
